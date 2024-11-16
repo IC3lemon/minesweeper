@@ -1,6 +1,5 @@
 # `minesweeper`
-Simple minesweeper written in java, using javafx. \
-literal baby project ik, implemented a multiplayer system though.
+Simple minesweeper written in java, using javafx. 
 ***
 > ### screenshots
 <img src="https://github.com/user-attachments/assets/ee414698-ddcc-4aca-8681-f4138ce00f61" width="28%" height="28%">
